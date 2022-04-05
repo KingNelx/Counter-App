@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    font-family: cursive;
+}
+
+.counterApp{
+    margin-top: 5.5rem;
+    width: 50%;
+    border: 2px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10%;
+    background-color: #f2f2f2;
+}
+
+button{
+    padding: 0.5rem;
+    margin: 0.5rem;
+    font-size: 15px;
+    border: 2px solid black;
+    font-weight: bold;
+    margin-bottom: 1.5rem;
+}
